@@ -20,3 +20,5 @@
 
 - тоже элемент
 - и ещё один элемент
+
+New information for BRANCH test2 ))
